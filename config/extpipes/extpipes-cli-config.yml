@@ -45,8 +45,8 @@ rawdbs:
                 - source: csv
                   schedule: On trigger
                   contacts:
-                      - name: Lucas Leocardo
-                        email: lucas.araujo@radixeng.com
+                      - name: None
+                        email: None
                         role: Developer
                         send-notification: true
     - rawdb-name: src:002:opcua:db
@@ -61,7 +61,7 @@ rawdbs:
                 - source: ice-cream-api
                   schedule: On trigger
                   contacts:
-                      - name: Lucas Leocardo
-                        email: lucas.araujo@radixeng.com
+                      - name: None
+                        email: None
                         role: Developer
                         send-notification: true
